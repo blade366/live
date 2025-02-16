@@ -15,7 +15,7 @@ PLAYBOY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476376.m3u8
 PRIVATE,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476379.m3u8
 HUSTLER,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476410.m3u8
 VIVIDRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
-养生,#genre#
+未分组1,#genre#
 178,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476178.m3u8
 195,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476195.m3u8
 199,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
