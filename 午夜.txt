@@ -14,20 +14,31 @@
 松视2,http://mtw.so/6pAjsB
 松视2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476366.m3u8
 松视3,http://suo.im/9wiS2
-PIGOO,http://s.mrw.so/7DlBI
-HAPPY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
+彩虹k,http://s.mrw.so/7DlBI
+开心,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
+松视1,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb8965d268751eb.flv
+松视2,http://ali.hlspull.yximgs.com/live/ce474f59fb85296dc230785a2fece38b.flv
+松视3,http://ali.hlspull.yximgs.com/live/9174e24752b149c912ce910ec895d068.flv
+彩虹e,http://ali.hlspull.yximgs.com/live/3cc910d07994c67e42e260788f3fb630.flv
+彩虹k,http://ali.hlspull.yximgs.com/live/bcab9cbad98f23c3d93074eb0ba3bf30.flv
+彩虹电影,http://ali.hlspull.yximgs.com/live/7811a445bb4b1c863ef0903e5d506708.flv
+玩美,http://ali.hlspull.yximgs.com/live/af1bd5b211fb811246abc7f3e979dc6b.flv
+香蕉,http://ali.hlspull.yximgs.com/live/bbb1be4648722742da267b2a9eb60b95.flv
+惊艳,http://ali.hlspull.yximgs.com/live/991901c29ac2220a2fc80fc95259ed21.flv
+极限,http://ali.hlspull.yximgs.com/live/c653ebcba2f63724ca90c9f8660aafce.flv
+开心,http://ali.hlspull.yximgs.com/live/18597a6849d5bd19703cb2ddf573861a.flv
 无码1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476380.m3u8
 无码2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476405.m3u8
-日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
-东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 PORNBOX,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476375.m3u8
 DORCEL TV,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476377.m3u8
 PLAYBOY TV,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476376.m3u8
 PRIVATE HD,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476379.m3u8
 HUSTLER HD,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476410.m3u8
 VIVID RED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
+日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
+东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 FEMJOY,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
 ZOOM TV,http://185.236.229.62:9981/play/a02a
 
