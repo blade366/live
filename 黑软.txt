@@ -15,7 +15,7 @@
 松视2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476366.m3u8
 松视3,http://suo.im/9wiS2
 彩虹k,http://s.mrw.so/7DlBI
-HAPPY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
+开心,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
 松视1,http://ali.hlspull.yximgs.com/live/005df5f04f12298eaeb8965d268751eb.flv
 松视2,http://ali.hlspull.yximgs.com/live/ce474f59fb85296dc230785a2fece38b.flv
 松视3,http://ali.hlspull.yximgs.com/live/9174e24752b149c912ce910ec895d068.flv
