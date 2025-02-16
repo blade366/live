@@ -15,6 +15,7 @@ PLAYBOY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476376.m3u8
 PRIVATE,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476379.m3u8
 HUSTLER,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476410.m3u8
 VIVIDRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
+
 未分组1,#genre#
 178,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476178.m3u8
 195,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476195.m3u8
@@ -103,6 +104,7 @@ VIVIDRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
 367,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476367.m3u8
 323,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476323.m3u8
 362,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476362.m3u8
+
 未分组2,#genre#
 556,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476556.m3u8
 557,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476557.m3u8
@@ -179,6 +181,7 @@ VIVIDRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
 648,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476648.m3u8
 649,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476649.m3u8
 650,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476650.m3u8
+
 未分组3,#genre#
 651,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476651.m3u8
 654,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476654.m3u8
