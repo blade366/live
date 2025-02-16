@@ -10,7 +10,7 @@
 香蕉,http://ali.hlspull.yximgs.com/live/bbb1be4648722742da267b2a9eb60b95.flv
 惊艳,http://ali.hlspull.yximgs.com/live/991901c29ac2220a2fc80fc95259ed21.flv
 极限,http://ali.hlspull.yximgs.com/live/c653ebcba2f63724ca90c9f8660aafce.flv
-Happy,http://ali.hlspull.yximgs.com/live/18597a6849d5bd19703cb2ddf573861a.flv
+HAPPY,http://ali.hlspull.yximgs.com/live/18597a6849d5bd19703cb2ddf573861a.flv
 
 香蕉,http://s.mrw.so/94E7W
 香蕉,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476372.m3u8
@@ -33,25 +33,25 @@ Happy,http://ali.hlspull.yximgs.com/live/18597a6849d5bd19703cb2ddf573861a.flv
 松视2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/639653.m3u8
 松视3,http://suo.im/9wiS2
 彩虹k,http://s.mrw.so/7DlBI
-Happy,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
+HAPPY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476374.m3u8
 无码1,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476380.m3u8
 无码2,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476405.m3u8
-Babes,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476375.m3u8
-Dorcel,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476377.m3u8
-Playboy,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476376.m3u8
-Private,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476379.m3u8
-Hustler,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476410.m3u8
-VividRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
-Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-EroXXX,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-Playboy,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-PassionXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-Leo,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-RealityKings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+BABES,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476375.m3u8
+DORCEL,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476377.m3u8
+PLAYBOY,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476376.m3u8
+PRIVATE,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476379.m3u8
+HUSTLER,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476410.m3u8
+VIVIDRED,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476378.m3u8
+DESIRE,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+BRAZZERS,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+DORCEL,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+EROXXX,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+EXTASY,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+EROX,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+PLAYBOY,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+PASSIONXXX,https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+LEO,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+RKTV,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 黑软🔞欧美,#genre#
 松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8 
@@ -522,11 +522,10 @@ Alba XXX HD1 +1 ,http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/296945 Alba 
  SUGAR BABES TV,http://206.212.244.71:8080/4wVQA7/625159/160044
 
 黑软🔞东映,#genre#
-ZOOM TV,http://185.236.229.62:9981/play/a02a
+ZOOM,http://185.236.229.62:9981/play/a02a
 日本映画,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 東映,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-NECO,https://stream01.willfonk.com/live_playlist.m3u8cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 NECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 FEMJOY,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
 Кино 18+,http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
