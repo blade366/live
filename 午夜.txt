@@ -1,19 +1,19 @@
 午夜｜松视,#genre#
 
-松视1,http://ali.hlspull.yximgs.com/live/180e884f3bc2b5afa569747527bc99da.flv
-松视2,http://ali.hlspull.yximgs.com/live/a49059239da74e4c3ef355916302d3e2.flv
-松视3,http://ali.hlspull.yximgs.com/live/512f28e4c685a0a06cefc56bd91b6214.flv
-彩虹e,http://ali.hlspull.yximgs.com/live/3f6c4fe63df023b40c6c6e4ec13c424d.flv
-彩虹k,http://ali.hlspull.yximgs.com/live/5a4a43bf6d73877e3efcf2173e5ec6fd.flv
-彩虹电影,http://ali.hlspull.yximgs.com/live/5da0442af7f87aaf55530e23db16aed0.flv
-玩美,http://ali.hlspull.yximgs.com/live/6b5b81522817966b8547748760ae036a.flv
-惊艳,http://ali.hlspull.yximgs.com/live/a046aa741c1811ba46255fe701e1d045.flv
-香蕉,http://ali.hlspull.yximgs.com/live/38b3ffba1d922dd5df0617f50688dfd1.flv
-极限,http://ali.hlspull.yximgs.com/live/e0e053adaf384f1572afc2f64664ba14.flv
-HAPPY,http://ali.hlspull.yximgs.com/live/d42bace2445c851c07ed9f4a53805a8e.flv
-俄罗斯1,http://ali.hlspull.yximgs.com/live/350759fb70f05baa17d1025dc6abd44f.flv
-俄罗斯2,http://ali.hlspull.yximgs.com/live/1a76b899d28ac2864bc11e0c63ff2a73.flv
-俄罗斯3,http://ali.hlspull.yximgs.com/live/b048a54037a1ba6b1829c2499a255b20.flv
+松视1,http://ali.hlspull.yximgs.com/live/f9b3169075a7115d46001c6b9689022f.flv
+松视2,http://ali.hlspull.yximgs.com/live/1ee7963ac7333d335a9908aa07c969c9.flv
+松视3,http://ali.hlspull.yximgs.com/live/44bc1b9bb77d499347e1fda3c931f96d.flv
+彩虹e,http://ali.hlspull.yximgs.com/live/5d15e6a2e2ea759d8ed8f351c72cc3de.flv
+彩虹k,http://ali.hlspull.yximgs.com/live/43076d39111a6508bcfca6cc5037f39e.flv
+彩虹电影,http://ali.hlspull.yximgs.com/live/a54861454acca3e5dfb96d5d7a65715f.flv
+玩美,http://ali.hlspull.yximgs.com/live/0a5196d930d6eb764fd2e12ed623a5b8.flv
+惊艳,http://ali.hlspull.yximgs.com/live/381f002abae29f0555138e8653d5650a.flv
+香蕉,http://ali.hlspull.yximgs.com/live/3908acca83bbc9c0267cd4140aa0ba6d.flv
+HAPPY,http://ali.hlspull.yximgs.com/live/5c42fe5219619921ab71faf4db149f2f.flv
+极限,http://ali.hlspull.yximgs.com/live/ddb48f787651ce15b69f8996c5bfc100.flv
+俄罗斯1,http://ali.hlspull.yximgs.com/live/5df7bd593645d54eb0a58078003b27a9.flv
+俄罗斯2,http://ali.hlspull.yximgs.com/live/ee94804fe2af8a31756fe7c64acb7c6a.flv
+俄罗斯3,http://ali.hlspull.yximgs.com/live/8b3ce074e7e2f34f568926f293ed35cd.flv
 
 松视1,http://suo.im/c4FP2
 松视2,http://mtw.so/6pAjsB
