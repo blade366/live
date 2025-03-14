@@ -1,10 +1,10 @@
 午夜｜松视,#genre#
 
-松视1,http://ali.hlspull.yximgs.com/live/6b4b2afc1ecb140725f7191bba61c7a6.flv
+松视1,http://ali.hlspull.yximgs.com/live/a5679f51a7e611ed1e71b2b1e94d3c84.flv
 松视2,http://ali.hlspull.yximgs.com/live/9a2e36c41fefc7fd157d31092c39debb.flv
 松视3,http://ali.hlspull.yximgs.com/live/82f8cd9943027dcb483a06984a97c366.flv
 彩虹e,http://ali.hlspull.yximgs.com/live/95706896698af22f2d8622465044c3ce.flv
-彩虹k,http://ali.hlspull.yximgs.com/live/a5679f51a7e611ed1e71b2b1e94d3c84.flv
+彩虹k,http://ali.hlspull.yximgs.com/live/6b4b2afc1ecb140725f7191bba61c7a6.flv
 彩虹电影,http://ali.hlspull.yximgs.com/live/1adc8357f497878e4ac2e4330bc10f53.flv
 玩美,http://ali.hlspull.yximgs.com/live/64446ca29bbdaa2973489777dffd8f5c.flv
 惊艳,http://ali.hlspull.yximgs.com/live/e154feae1c8f17ed9c64c02143de9f3f.flv
